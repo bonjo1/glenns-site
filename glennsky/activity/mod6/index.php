@@ -11,6 +11,7 @@
             <li><a href="../../index.php">Home</a></li>
             <li><a href="6-1/index.php">6-1</a></li>
             <li><a href="6-2/index.php">6-2</a></li>
+            <li><a href="7-1/index.php">7-1</a></li>
 
         </ul>
         </div>
