@@ -1,0 +1,50 @@
+body{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: pink;
+}
+body{
+    margin: 0;
+}
+#canvas-1{
+    position: relative;
+}
+#canvas-2{
+        position: relative;
+    }
+#myCanvass1{
+    position: relative;
+}
+#myCanvas{
+    position: relative;
+    float: left;
+}
+#awesomeHat{
+    position: absolute;
+    margin-left: -680px;
+    float: left;
+    width: 300px;
+    height: 300px;
+   
+}
+#cup{
+    position: absolute;
+    margin-left: -290px;
+}
+#canvas{
+    position: absolute;
+    margin-left:-150px;
+    width:60%  ;
+    height: 30%;
+    margin-top: -19%;
+}
+#canvas5{
+    position: absolute;
+    margin-top: -10%;
+    margin-left:-15%;
+    width: 50%;
+    height: 50%;
+
+}
